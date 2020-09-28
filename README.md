@@ -4,18 +4,26 @@
 
   <p align="center">Exporte seu arquivo de planilha no formato .csv,
 (arquivos csv são separados por virgula).
-    <img src="src/assets/excel.png" width="80%" height="40%" max-width:100% >
+    <img src="src/assets/excel.png" width="50%" height="50%" max-width:100% >
    </p>
-      
-  <p align="center"> Seu arquivo ficara assim após a conversão. 
+   <br/>
+     <p> Seu arquivo ficara assim após a conversão. </p>
+
+  <p align="center">
+
+  <p>PDF</p>
   <img src="src/assets/pdf.png" width="30%" height="40%" max-width:100% >
-    <img src="src/assets/html.png" width="50%" height="50%" max-width:100% >
+ 
+  <p>HTML</p>
+  <img src="src/assets/html.png" width="50%" height="50%" max-width:100% >
   </p>
 
 <h3 align="center">
   Conversor de tabelas do excel para PDF e HTML utilizando nodejs, ejs e POO.
   Table converter with nodejs.
 </h3>
+
+---
 
 ### Configurações necessárias
 

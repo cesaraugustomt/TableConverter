@@ -4,7 +4,7 @@
 
   <p align="center">Exporte seu arquivo de planilha no formato .csv,
 (arquivos csv são separados por virgula).
-    <img src="src/assets/excel.png" width="50%" height="50%" max-width:100% >
+    <img src="public/excel.png" width="50%" height="50%" max-width:100% >
    </p>
    <br/>
      <p> Seu arquivo ficara assim após a conversão. </p>
@@ -12,10 +12,10 @@
   <p align="center">
 
   <p>PDF</p>
-  <img src="src/assets/pdf.png" width="30%" height="40%" max-width:100% >
+  <img src="public/pdf.png" width="30%" height="40%" max-width:100% >
  
   <p>HTML</p>
-  <img src="src/assets/html.png" width="50%" height="50%" max-width:100% >
+  <img src="public/html.png" width="50%" height="50%" max-width:100% >
   </p>
 
 <h3 align="center">
@@ -42,12 +42,6 @@ git clone https://github.com/cesaraugustomt/TableConverter.git
 ```
 
 ### Configurações
-
-1. para instalar as dependências use o comando:
-
-```
-npm install
-```
 
 2. Dentro do arquivo app.js em _**var dados**_ passe o nome do seu arquivo, depois execute _**node app.js**_ no seu terminal, segue o exemplo a baixo:
 

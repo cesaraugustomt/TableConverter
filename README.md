@@ -43,7 +43,7 @@ git clone https://github.com/cesaraugustomt/TableConverter.git
 
 ### Configurações
 
-2. Dentro do arquivo app.js em _**var dados**_ passe o nome do seu arquivo, depois execute _**node app.js**_ no seu terminal, segue o exemplo a baixo:
+1. Dentro do arquivo app.js em _**var dados**_ passe o nome do seu arquivo, depois execute _**node app.js**_ no seu terminal, segue o exemplo a baixo:
 
 ```
  var dados = await leitor.Read("./vendas.csv");
